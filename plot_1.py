@@ -15,3 +15,4 @@ line2, =ax.plot(phi, np.cos(phi), "-^C9", label="hui")
 line2.set_dash_capstyle("projecting")
 
 plt.show()
+print("proverka")
